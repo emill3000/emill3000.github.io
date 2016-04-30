@@ -1,0 +1,21 @@
+# Site settings
+title: 
+header-img: img/home-bg.png
+email: emill3000@yahoo.com
+copyright_name: emill3000
+description: > # this means to ignore newlines until "baseurl:"
+  From Veterinary Medicine To Computer Programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  emill3000
+learn_profile: emill3000
+email_username: emill3000@yahoo.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
