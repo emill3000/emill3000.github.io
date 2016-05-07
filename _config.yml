@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: emill3000@yahoo.com
 copyright_name: emill3000
 description: > # this means to ignore newlines until "baseurl:"
-  From Veterinary Medicine To Computer Programming
+  Blog It
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  emill3000
